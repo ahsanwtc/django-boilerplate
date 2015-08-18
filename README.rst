@@ -6,7 +6,7 @@
 Welcome to ExpShare's documentation!
 ====================================
 
-This is a web app written in Django 1.8.3 and AngularJS.
+This is a web app written in Django 1.8.3 and ~~AngularJS~~(in dev).
 
 
 Requirements
