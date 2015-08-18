@@ -8,27 +8,6 @@ Welcome to ExpShare's documentation!
 
 This is a web app written in Django 1.8.3 and AngularJS.
 
-To start using the ExpShare, check out the :doc:`requirements` 
-and next the :doc:`quick_start`.
-
-Contents:
-
-.. toctree::
-   :maxdepth: 2
-
-    requirements
-    quick_start
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
-
-
-
 
 Requirements
 ============
